@@ -1,8 +1,8 @@
 # BITS_WILP_Vaccination_Portal
 
-Steps to run:
+Steps to run (after cloning repo) :
 
-## Running the Client
+### Running the Client
 
 1. Navigate to the `client` directory:
     ```bash
@@ -17,7 +17,13 @@ Steps to run:
     npm run dev
     ```
 
-## Running the Server
+Client will be running on port 5173. Open in a web browser.
+Credentials:
+* username: admin
+* password: password
+
+
+### Running the Server
 
 1. Navigate to the `server` directory:
     ```bash
@@ -31,3 +37,6 @@ Steps to run:
     ```bash
     npm start
     ```
+
+    Server will be running on port 8080.
+
